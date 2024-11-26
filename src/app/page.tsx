@@ -56,7 +56,8 @@ export default function LinktreePage() {
           {[
             { title: 'Email', url: 'mailto:prapanchmannar@gmail.com', description: 'prapanchmannar@gmail.com' },
             { title: 'LinkedIn', url: 'https://www.linkedin.com/in/prapanch-j-86bb46334/', description: 'Connect with me on LinkedIn' },
-            { title: 'Instagram', url: 'https://www.instagram.com/___p_r_j___/', description: 'Follow me on Instagram' },
+            { title: 'Instagram', url: 'https://www.instagram.com/_p__r__j/', description: 'Follow me on Instagram' },
+            { title: 'Photography', url: 'https://www.instagram.com/___p_r_j___/', description: 'See my photography page' },
             // Add more links as needed
           ].map((link, index) => (
             <Link
